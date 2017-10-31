@@ -1,0 +1,10 @@
+## Interface: 11200
+## Title: |cff33ffccpf|cffffffffUI: bongos-skin
+## Author: Stokbaek
+## Notes: Skins Bongos Actionbar to follow the theme of pfUI.
+## Version: 0.1
+## Dependencies: pfUI, Bongos_ActionBar
+## X-Credits: RoadBlock
+
+# main
+pfUI_bongos-skin.lua
